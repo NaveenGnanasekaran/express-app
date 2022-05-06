@@ -1,0 +1,25 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Learning express in nodejs",
+  "main": "post-connection.js",
+  "scripts": {
+    "test": "echo no test specify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenGnanasekaran/express-app.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenGnanasekaran/express-app/issues"
+  },
+  "homepage": "https://github.com/NaveenGnanasekaran/express-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
